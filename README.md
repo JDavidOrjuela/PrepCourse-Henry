@@ -1,2 +1,2 @@
-Este es un proyecto de como crear un repositorio y clonarlo desde github a mi escritorio local
-# PrepCourse-NoReadme
+Este es un proyecto de como crear un repositorio y clonarlo desde github a mi escritorio local 2
+
